@@ -1,0 +1,251 @@
+
+bg_light.jpg
+size: 1948,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bns_bg_lights_00
+  rotate: false
+  xy: 1078, 760
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_01
+  rotate: false
+  xy: 288, 279
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_02
+  rotate: false
+  xy: 1078, 668
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_03
+  rotate: false
+  xy: 1447, 760
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_04
+  rotate: false
+  xy: 288, 187
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_05
+  rotate: false
+  xy: 1078, 576
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_06
+  rotate: false
+  xy: 1447, 668
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_07
+  rotate: false
+  xy: 288, 95
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_08
+  rotate: false
+  xy: 1447, 576
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_09
+  rotate: false
+  xy: 1078, 484
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_10
+  rotate: false
+  xy: 1447, 484
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_11
+  rotate: true
+  xy: 1816, 483
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_12
+  rotate: false
+  xy: 288, 3
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_13
+  rotate: true
+  xy: 657, 2
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_14
+  rotate: true
+  xy: 749, 2
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_15
+  rotate: true
+  xy: 841, 162
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_16
+  rotate: true
+  xy: 933, 162
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_17
+  rotate: false
+  xy: 1025, 392
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_18
+  rotate: false
+  xy: 1025, 300
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_19
+  rotate: false
+  xy: 1394, 392
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_20
+  rotate: false
+  xy: 1025, 208
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_21
+  rotate: false
+  xy: 1394, 300
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_22
+  rotate: false
+  xy: 1394, 208
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_23
+  rotate: false
+  xy: 1025, 116
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_24
+  rotate: false
+  xy: 1394, 116
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_25
+  rotate: true
+  xy: 1763, 114
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_26
+  rotate: true
+  xy: 1855, 114
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_27
+  rotate: false
+  xy: 841, 24
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_28
+  rotate: false
+  xy: 1210, 24
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_bg_lights_29
+  rotate: false
+  xy: 1579, 22
+  size: 367, 90
+  orig: 367, 90
+  offset: 0, 0
+  index: -1
+bns_btm_bg
+  rotate: false
+  xy: 2, 514
+  size: 756, 336
+  orig: 756, 336
+  offset: 0, 0
+  index: -1
+bns_mtp_circle
+  rotate: false
+  xy: 760, 531
+  size: 316, 319
+  orig: 316, 319
+  offset: 0, 0
+  index: -1
+bns_mtp_glow
+  rotate: false
+  xy: 2, 85
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+bns_mtp_particle
+  rotate: false
+  xy: 841, 116
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+ui_btm_bg
+  rotate: false
+  xy: 2, 371
+  size: 756, 141
+  orig: 756, 141
+  offset: 0, 0
+  index: -1
